@@ -1,0 +1,19 @@
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul{
+  margin: 10px 0;
+}
+
+.my-nav li {
+  padding: 0 5px;
+}
+
+/*body {
+    padding-top: 70px;
+}*/
+
+#about, #my-work, #contact-me {
+padding-top: 70px; 
+}
